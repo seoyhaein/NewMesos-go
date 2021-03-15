@@ -37,5 +37,7 @@ mesos scheduler 개발 시작. mesos executor 의 경우 컨테이너 환경에�
 - [참고1](https://joinc.co.kr/w/man/12/golang/TDD) TDD, 
 - [참고2](https://blog.golang.org/race-detector) race (21-03-11)
 
+Travis CI 적용과 Table Test 를 적용한다. (21-03-15)
+
 ## License
 This project is [Apache License 2.0](LICENSE).
